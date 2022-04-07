@@ -19,7 +19,7 @@ def next_permutation(nums: List) -> List:
             if nums[i] > nums[idx1]:
                 idx2 = i
                 break
-            
+
     if idx1 >=0  and idx2 >=0:
         nums[idx1], nums[idx2] = nums[idx2], nums[idx1]
         i = idx1+1
@@ -36,6 +36,7 @@ def next_permutation(nums: List) -> List:
             nums[i], nums[j] = nums[j], nums[i]
             i+=1
             j-=1
+    return nums
 
     
 
