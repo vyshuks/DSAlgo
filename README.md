@@ -11,3 +11,11 @@
 4.  [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/container_with_most_water.py)
 
 5.  [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/3sum_with_multiplicity.py)
+
+6.  [3Sum Closest](https://leetcode.com/problems/3sum-closest/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/3sum_closest.py)
+
+7.  [3Sum](https://leetcode.com/problems/3sum/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/3sum.py)
+
+8.  [Two Sum](https://leetcode.com/problems/two-sum/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/2sum.py)
+
+9.  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome.py)
