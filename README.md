@@ -21,3 +21,5 @@
 9.  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome.py)
 
 10. [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/kth_largest_element_in_stream.py)
+
+11. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/kth_largest_element_in_array.py)
