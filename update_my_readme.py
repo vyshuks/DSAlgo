@@ -1,6 +1,3 @@
-from click import confirmation_option
-
-
 import os
 
 def get_problem_link(path):
@@ -15,17 +12,10 @@ def get_problem_name(pblm_link):
 
 
 with open("README.md", "w+") as file:
-    heading = """
-    # DSAlgo \n
-
-    ## Leetcode
-    """
-
     files = os.listdir("leetcode")
     files.sort()
     content = ""
     for index, _file in enumerate(files):
-        file_path = None
         problem_link = get_problem_link(f"leetcode/{_file}")
         problem_name = get_problem_name(problem_link)
 
