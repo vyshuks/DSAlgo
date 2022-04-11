@@ -19,14 +19,16 @@
 
 9.  [Kth Largest Element In A Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/kth_largest_element_in_stream.py)
 
-10.  [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/last_stone_weight.py)
+10.  [The K Weakest Rows In A Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/kth_weakest_row.py)
 
-11.  [Next Permutation](https://leetcode.com/problems/next-permutation/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/next_permutation.py)
+11.  [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/last_stone_weight.py)
 
-12.  [Swapping Nodes In A Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/swapping_nodes_in_linked_list.py)
+12.  [Next Permutation](https://leetcode.com/problems/next-permutation/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/next_permutation.py)
 
-13.  [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/top_k_frequent_element.py)
+13.  [Swapping Nodes In A Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/swapping_nodes_in_linked_list.py)
 
-14.  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome.py)
+14.  [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/top_k_frequent_element.py)
 
-15.  [Valid Palindrome Ii](https://leetcode.com/problems/valid-palindrome-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome_2.py)
+15.  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome.py)
+
+16.  [Valid Palindrome Ii](https://leetcode.com/problems/valid-palindrome-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome_2.py)
