@@ -25,10 +25,12 @@
 
 12.  [Next Permutation](https://leetcode.com/problems/next-permutation/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/next_permutation.py)
 
-13.  [Swapping Nodes In A Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/swapping_nodes_in_linked_list.py)
+13.  [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/shif_2d_grid.py)
 
-14.  [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/top_k_frequent_element.py)
+14.  [Swapping Nodes In A Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/swapping_nodes_in_linked_list.py)
 
-15.  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome.py)
+15.  [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/top_k_frequent_element.py)
 
-16.  [Valid Palindrome Ii](https://leetcode.com/problems/valid-palindrome-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome_2.py)
+16.  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome.py)
+
+17.  [Valid Palindrome Ii](https://leetcode.com/problems/valid-palindrome-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome_2.py)
