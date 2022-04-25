@@ -43,6 +43,8 @@
 
 21.  [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/top_k_frequent_element.py)
 
-22.  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome.py)
+22.  [Trim A Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/trim_a_binary_search_tree.py)
 
-23.  [Valid Palindrome Ii](https://leetcode.com/problems/valid-palindrome-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome_2.py)
+23.  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome.py)
+
+24.  [Valid Palindrome Ii](https://leetcode.com/problems/valid-palindrome-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome_2.py)
