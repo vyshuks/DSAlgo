@@ -28,6 +28,8 @@ class Solution:
                     pointerT -= 1
                 else:
                     break
+            if pointerS == pointerT and (pointerS <= pointerT < 0):
+                break
 
             if S[pointerS] != T[pointerT]:
                 return False
