@@ -15,60 +15,62 @@
 
 7.  [Binary Search](https://leetcode.com/problems/binary-search/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/binary_search.py)
 
-8.  [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/container_with_most_water.py)
+8.  [Broken Calculator](https://leetcode.com/problems/broken-calculator/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/broken_calculator.py)
 
-9.  [Convert Bst To Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/convert_bst_to_greater_tree.py)
+9.  [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/container_with_most_water.py)
 
-10.  [Design Underground System](https://leetcode.com/problems/design-underground-system/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/design_underground_system.py)
+10.  [Convert Bst To Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/convert_bst_to_greater_tree.py)
 
-11.  [Game Of Life](https://leetcode.com/problems/game-of-life/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/game_of_life.py)
+11.  [Design Underground System](https://leetcode.com/problems/design-underground-system/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/design_underground_system.py)
 
-12.  [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/increasing_order_search_tree.py)
+12.  [Game Of Life](https://leetcode.com/problems/game-of-life/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/game_of_life.py)
 
-13.  [Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/kth_largest_element_in_array.py)
+13.  [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/increasing_order_search_tree.py)
 
-14.  [Kth Largest Element In A Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/kth_largest_element_in_stream.py)
+14.  [Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/kth_largest_element_in_array.py)
 
-15.  [Kth Smallest Element In A Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/kth_smallest_element_in_a_bst.py)
+15.  [Kth Largest Element In A Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/kth_largest_element_in_stream.py)
 
-16.  [The K Weakest Rows In A Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/kth_weakest_row.py)
+16.  [Kth Smallest Element In A Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/kth_smallest_element_in_a_bst.py)
 
-17.  [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/last_stone_weight.py)
+17.  [The K Weakest Rows In A Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/kth_weakest_row.py)
 
-18.  [Next Permutation](https://leetcode.com/problems/next-permutation/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/next_permutation.py)
+18.  [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/last_stone_weight.py)
 
-19.  [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/recover_binary_search_tree.py)
+19.  [Next Permutation](https://leetcode.com/problems/next-permutation/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/next_permutation.py)
 
-20.  [Search A 2D Matrix Ii](https://leetcode.com/problems/search-a-2d-matrix-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/search-a-2d-matrix-ii.py)
+20.  [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/recover_binary_search_tree.py)
 
-21.  [Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/search_a_2d_matrix.py)
+21.  [Search A 2D Matrix Ii](https://leetcode.com/problems/search-a-2d-matrix-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/search-a-2d-matrix-ii.py)
 
-22.  [Search In A Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/search_in_a_binary_search_tree.py)
+22.  [Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/search_a_2d_matrix.py)
 
-23.  [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/search_in_rotated_sorted_array.py)
+23.  [Search In A Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/search_in_a_binary_search_tree.py)
 
-24.  [Search In Rotated Sorted Array Ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/search_in_rotated_sorted_array_2.py)
+24.  [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/search_in_rotated_sorted_array.py)
 
-25.  [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/shif_2d_grid.py)
+25.  [Search In Rotated Sorted Array Ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/search_in_rotated_sorted_array_2.py)
 
-26.  [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/shortest_unsorted_continuous_subarray.py)
+26.  [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/shif_2d_grid.py)
 
-27.  [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/smallest_string_with_a_given_numeric_value.py)
+27.  [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/shortest_unsorted_continuous_subarray.py)
 
-28.  [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/sort_array_by_parity.py)
+28.  [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/smallest_string_with_a_given_numeric_value.py)
 
-29.  [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/spiral_matrix.py)
+29.  [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/sort_array_by_parity.py)
 
-30.  [Spiral Matrix Ii](https://leetcode.com/problems/spiral-matrix-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/spiral_matrix_2.py)
+30.  [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/spiral_matrix.py)
 
-31.  [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/split_array_largest_sum.py)
+31.  [Spiral Matrix Ii](https://leetcode.com/problems/spiral-matrix-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/spiral_matrix_2.py)
 
-32.  [Swapping Nodes In A Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/swapping_nodes_in_linked_list.py)
+32.  [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/split_array_largest_sum.py)
 
-33.  [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/top_k_frequent_element.py)
+33.  [Swapping Nodes In A Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/swapping_nodes_in_linked_list.py)
 
-34.  [Trim A Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/trim_a_binary_search_tree.py)
+34.  [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/top_k_frequent_element.py)
 
-35.  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome.py)
+35.  [Trim A Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/trim_a_binary_search_tree.py)
 
-36.  [Valid Palindrome Ii](https://leetcode.com/problems/valid-palindrome-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome_2.py)
+36.  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome.py)
+
+37.  [Valid Palindrome Ii](https://leetcode.com/problems/valid-palindrome-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome_2.py)
