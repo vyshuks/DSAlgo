@@ -102,3 +102,5 @@
 50.  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome.py)
 
 51.  [Valid Palindrome Ii](https://leetcode.com/problems/valid-palindrome-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome_2.py)
+
+52.  [Word Ladder](https://leetcode.com/problems/word-ladder/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/word_ladder.py)
