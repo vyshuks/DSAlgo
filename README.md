@@ -141,12 +141,14 @@
 
 70.  [Trim A Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/trim_a_binary_search_tree.py)
 
-71.  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome.py)
+71.  [Unique Paths Ii](https://leetcode.com/problems/unique-paths-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/unique_paths_ii.py)
 
-72.  [Valid Palindrome Ii](https://leetcode.com/problems/valid-palindrome-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome_2.py)
+72.  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome.py)
 
-73.  [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/wildcard_matching.py)
+73.  [Valid Palindrome Ii](https://leetcode.com/problems/valid-palindrome-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome_2.py)
 
-74.  [Word Ladder](https://leetcode.com/problems/word-ladder/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/word_ladder.py)
+74.  [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/wildcard_matching.py)
 
-75.  [Word Ladder Ii](https://leetcode.com/problems/word-ladder-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/word_ladder_ii.py)
+75.  [Word Ladder](https://leetcode.com/problems/word-ladder/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/word_ladder.py)
+
+76.  [Word Ladder Ii](https://leetcode.com/problems/word-ladder-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/word_ladder_ii.py)
