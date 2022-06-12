@@ -135,144 +135,146 @@
 
 67.  [Maximal Square](https://leetcode.com/problems/maximal-square/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/maximal_square.py)
 
-68.  [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/maximum-frequency-stack.py)
+68.  [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/maximum-erasure-value.py)
 
-69.  [Maximum Product Of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/maximum-product-of-word-lengths.py)
+69.  [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/maximum-frequency-stack.py)
 
-70.  [Maximum Bags With Full Capacity Of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/maximum_bags_with_full_capacity_of_rocks.py)
+70.  [Maximum Product Of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/maximum-product-of-word-lengths.py)
 
-71.  [Maximum Subarray Sum With One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/maximum_subarray_sum_with_one_deletion.py)
+71.  [Maximum Bags With Full Capacity Of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/maximum_bags_with_full_capacity_of_rocks.py)
 
-72.  [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/merge-sorted-array.py)
+72.  [Maximum Subarray Sum With One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/maximum_subarray_sum_with_one_deletion.py)
 
-73.  [Minimum Operations To Reduce X To Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/minimum-operations-to-reduce-x-to-zero.py)
+73.  [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/merge-sorted-array.py)
 
-74.  [Minimum Remove To Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/minimum-remove-to-make-valid-parentheses.py)
+74.  [Minimum Operations To Reduce X To Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/minimum-operations-to-reduce-x-to-zero.py)
 
-75.  [Minimum Operations To Make The Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/minimum_operations_to_make_the_array_increasing.py)
+75.  [Minimum Remove To Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/minimum-remove-to-make-valid-parentheses.py)
 
-76.  [Missing Number](https://leetcode.com/problems/missing-number/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/missing_number.py)
+76.  [Minimum Operations To Make The Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/minimum_operations_to_make_the_array_increasing.py)
 
-77.  [N Queens Ii](https://leetcode.com/problems/n-queens-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/n-queens-ii.py)
+77.  [Missing Number](https://leetcode.com/problems/missing-number/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/missing_number.py)
 
-78.  [N Queens](https://leetcode.com/problems/n-queens/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/n-queens.py)
+78.  [N Queens Ii](https://leetcode.com/problems/n-queens-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/n-queens-ii.py)
 
-79.  [Network Delay Time](https://leetcode.com/problems/network-delay-time/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/network_delay_time.py)
+79.  [N Queens](https://leetcode.com/problems/n-queens/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/n-queens.py)
 
-80.  [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/next-greater-element-i.py)
+80.  [Network Delay Time](https://leetcode.com/problems/network-delay-time/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/network_delay_time.py)
 
-81.  [Next Permutation](https://leetcode.com/problems/next-permutation/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/next_permutation.py)
+81.  [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/next-greater-element-i.py)
 
-82.  [Number Of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/number_of_dice_rolls_with_target_sum.py)
+82.  [Next Permutation](https://leetcode.com/problems/next-permutation/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/next_permutation.py)
 
-83.  [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/numbers_with_same_consecutive_differences.py)
+83.  [Number Of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/number_of_dice_rolls_with_target_sum.py)
 
-84.  [Ones And Zeroes](https://leetcode.com/problems/ones-and-zeroes/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/ones-and-zeroes.py)
+84.  [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/numbers_with_same_consecutive_differences.py)
 
-85.  [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/pacific-atlantic-water-flow.py)
+85.  [Ones And Zeroes](https://leetcode.com/problems/ones-and-zeroes/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/ones-and-zeroes.py)
 
-86.  [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/palindromic-substrings.py)
+86.  [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/pacific-atlantic-water-flow.py)
 
-87.  [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/partition_equal_subset_sum.py)
+87.  [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/palindromic-substrings.py)
 
-88.  [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/peeking-iterator.py)
+88.  [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/partition_equal_subset_sum.py)
 
-89.  [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/permutation-sequence.py)
+89.  [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/peeking-iterator.py)
 
-90.  [Permutations](https://leetcode.com/problems/permutations/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/permutations.py)
+90.  [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/permutation-sequence.py)
 
-91.  [Permutations Ii](https://leetcode.com/problems/permutations-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/permutations_ii.py)
+91.  [Permutations](https://leetcode.com/problems/permutations/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/permutations.py)
 
-92.  [Populating Next Right Pointers In Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/populating_next_right_pointers_in_each_node.py)
+92.  [Permutations Ii](https://leetcode.com/problems/permutations-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/permutations_ii.py)
 
-93.  [Populating Next Right Pointers In Each Node Ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/populating_next_right_pointers_in_each_node_ii.py)
+93.  [Populating Next Right Pointers In Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/populating_next_right_pointers_in_each_node.py)
 
-94.  [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/possible-bipartition.py)
+94.  [Populating Next Right Pointers In Each Node Ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/populating_next_right_pointers_in_each_node_ii.py)
 
-95.  [Queens That Can Attack The King](https://leetcode.com/problems/queens-that-can-attack-the-king/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/queens-that-can-attack-the-king.py)
+95.  [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/possible-bipartition.py)
 
-96.  [Range Sum Query 2D Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/range-sum-query-2d-immutable.py)
+96.  [Queens That Can Attack The King](https://leetcode.com/problems/queens-that-can-attack-the-king/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/queens-that-can-attack-the-king.py)
 
-97.  [Reconstruct Original Digits From English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/reconstruct-original-digits-from-english.py)
+97.  [Range Sum Query 2D Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/range-sum-query-2d-immutable.py)
 
-98.  [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/recover_binary_search_tree.py)
+98.  [Reconstruct Original Digits From English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/reconstruct-original-digits-from-english.py)
 
-99.  [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/remove-palindromic-subsequences.py)
+99.  [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/recover_binary_search_tree.py)
 
-100.  [Remove All Adjacent Duplicates In String Ii](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/remove_all_adjacent_duplicates_in_string_ii.py)
+100.  [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/remove-palindromic-subsequences.py)
 
-101.  [Reordered Power Of 2](https://leetcode.com/problems/reordered-power-of-2/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/reordered-power-of-2.py)
+101.  [Remove All Adjacent Duplicates In String Ii](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/remove_all_adjacent_duplicates_in_string_ii.py)
 
-102.  [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/roman-to-integer.py)
+102.  [Reordered Power Of 2](https://leetcode.com/problems/reordered-power-of-2/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/reordered-power-of-2.py)
 
-103.  [Score Of Parentheses](https://leetcode.com/problems/score-of-parentheses/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/score-of-parentheses.py)
+103.  [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/roman-to-integer.py)
 
-104.  [Search A 2D Matrix Ii](https://leetcode.com/problems/search-a-2d-matrix-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/search-a-2d-matrix-ii.py)
+104.  [Score Of Parentheses](https://leetcode.com/problems/score-of-parentheses/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/score-of-parentheses.py)
 
-105.  [Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/search_a_2d_matrix.py)
+105.  [Search A 2D Matrix Ii](https://leetcode.com/problems/search-a-2d-matrix-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/search-a-2d-matrix-ii.py)
 
-106.  [Search In A Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/search_in_a_binary_search_tree.py)
+106.  [Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/search_a_2d_matrix.py)
 
-107.  [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/search_in_rotated_sorted_array.py)
+107.  [Search In A Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/search_in_a_binary_search_tree.py)
 
-108.  [Search In Rotated Sorted Array Ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/search_in_rotated_sorted_array_2.py)
+108.  [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/search_in_rotated_sorted_array.py)
 
-109.  [Set Mismatch](https://leetcode.com/problems/set-mismatch/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/set_mismatch.py)
+109.  [Search In Rotated Sorted Array Ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/search_in_rotated_sorted_array_2.py)
 
-110.  [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/shif_2d_grid.py)
+110.  [Set Mismatch](https://leetcode.com/problems/set-mismatch/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/set_mismatch.py)
 
-111.  [Shortest Distance To A Character](https://leetcode.com/problems/shortest-distance-to-a-character/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/shortest-distance-to-a-character.py)
+111.  [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/shif_2d_grid.py)
 
-112.  [Shortest Path In Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/shortest_path_in_binary_matrix.py)
+112.  [Shortest Distance To A Character](https://leetcode.com/problems/shortest-distance-to-a-character/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/shortest-distance-to-a-character.py)
 
-113.  [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/shortest_unsorted_continuous_subarray.py)
+113.  [Shortest Path In Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/shortest_path_in_binary_matrix.py)
 
-114.  [Simplify Path](https://leetcode.com/problems/simplify-path/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/simplify-path.py)
+114.  [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/shortest_unsorted_continuous_subarray.py)
 
-115.  [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/sliding_window_maximum.py)
+115.  [Simplify Path](https://leetcode.com/problems/simplify-path/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/simplify-path.py)
 
-116.  [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/smallest_string_with_a_given_numeric_value.py)
+116.  [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/sliding_window_maximum.py)
 
-117.  [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/sort_array_by_parity.py)
+117.  [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/smallest_string_with_a_given_numeric_value.py)
 
-118.  [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/spiral_matrix.py)
+118.  [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/sort_array_by_parity.py)
 
-119.  [Spiral Matrix Ii](https://leetcode.com/problems/spiral-matrix-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/spiral_matrix_2.py)
+119.  [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/spiral_matrix.py)
 
-120.  [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/split_array_largest_sum.py)
+120.  [Spiral Matrix Ii](https://leetcode.com/problems/spiral-matrix-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/spiral_matrix_2.py)
 
-121.  [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/stamping-the-sequence.py)
+121.  [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/split_array_largest_sum.py)
 
-122.  [Sum Of Total Strength Of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/sum-of-total-strength-of-wizards.py)
+122.  [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/stamping-the-sequence.py)
 
-123.  [Swapping Nodes In A Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/swapping_nodes_in_linked_list.py)
+123.  [Sum Of Total Strength Of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/sum-of-total-strength-of-wizards.py)
 
-124.  [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/top_k_frequent_element.py)
+124.  [Swapping Nodes In A Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/swapping_nodes_in_linked_list.py)
 
-125.  [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/transpose-matrix.py)
+125.  [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/top_k_frequent_element.py)
 
-126.  [Trim A Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/trim_a_binary_search_tree.py)
+126.  [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/transpose-matrix.py)
 
-127.  [Unique Paths](https://leetcode.com/problems/unique-paths/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/unique_paths.py)
+127.  [Trim A Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/trim_a_binary_search_tree.py)
 
-128.  [Unique Paths Ii](https://leetcode.com/problems/unique-paths-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/unique_paths_ii.py)
+128.  [Unique Paths](https://leetcode.com/problems/unique-paths/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/unique_paths.py)
 
-129.  [Unique Paths Iii](https://leetcode.com/problems/unique-paths-iii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/unique_paths_iii.py)
+129.  [Unique Paths Ii](https://leetcode.com/problems/unique-paths-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/unique_paths_ii.py)
 
-130.  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome.py)
+130.  [Unique Paths Iii](https://leetcode.com/problems/unique-paths-iii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/unique_paths_iii.py)
 
-131.  [Valid Palindrome Ii](https://leetcode.com/problems/valid-palindrome-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome_2.py)
+131.  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome.py)
 
-132.  [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/validate-stack-sequences.py)
+132.  [Valid Palindrome Ii](https://leetcode.com/problems/valid-palindrome-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/valid_palindrome_2.py)
 
-133.  [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/vowel-spellchecker.py)
+133.  [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/validate-stack-sequences.py)
 
-134.  [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/wiggle-subsequence.py)
+134.  [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/vowel-spellchecker.py)
 
-135.  [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/wildcard_matching.py)
+135.  [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/wiggle-subsequence.py)
 
-136.  [Word Subsets](https://leetcode.com/problems/word-subsets/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/word-subsets.py)
+136.  [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/wildcard_matching.py)
 
-137.  [Word Ladder](https://leetcode.com/problems/word-ladder/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/word_ladder.py)
+137.  [Word Subsets](https://leetcode.com/problems/word-subsets/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/word-subsets.py)
 
-138.  [Word Ladder Ii](https://leetcode.com/problems/word-ladder-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/word_ladder_ii.py)
+138.  [Word Ladder](https://leetcode.com/problems/word-ladder/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/word_ladder.py)
+
+139.  [Word Ladder Ii](https://leetcode.com/problems/word-ladder-ii/) - [code](https://github.com/vyshuks/DSAlgo/blob/main/leetcode/word_ladder_ii.py)
